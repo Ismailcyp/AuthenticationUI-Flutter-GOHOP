@@ -11,13 +11,12 @@ A clean, modern, and responsive UI design for the **GOHOP** application, focusin
 ## 📱 App Preview
 
 ### Screenshots
-
-
-### Video Demo
 <p align="center">
-  <video src="URL_TO_YOUR_VIDEO_DEMO_HERE" width="300" controls></video>
-  <br>
-  *(If the video doesn't play, you can upload a .gif file instead!)*
+  <img src="https://github.com/Ismailcyp/AuthenticationUI-Flutter-GOHOP/blob/main/1.png?raw=true" alt="Landing page" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Ismailcyp/AuthenticationUI-Flutter-GOHOP/blob/main/2.png?raw=true" alt="Sign Up Screen" width="250"/>
+  <img src="https://github.com/Ismailcyp/AuthenticationUI-Flutter-GOHOP/blob/main/3.png?raw=true" alt="Log In Screen" width="250"/>
+  <img src="https://github.com/Ismailcyp/AuthenticationUI-Flutter-GOHOP/blob/main/4.png?raw=true" alt="Main App" width="250"/>
 </p>
 
 ---
@@ -27,7 +26,6 @@ A clean, modern, and responsive UI design for the **GOHOP** application, focusin
 - **Modern UI/UX:** A minimalist and intuitive design tailored for a smooth onboarding experience.
 - **Cross-Platform:** Beautifully renders on both iOS and Android devices.
 - **Responsive Layout:** Adapts seamlessly to different screen sizes.
-- **Modular Codebase:** Built using Object-Oriented Programming (OOP) principles for easy maintenance and future scaling.
 - **Custom Widgets:** Reusable text fields, buttons, and layout structures.
 
 ## 🛠️ Built With
@@ -35,11 +33,4 @@ A clean, modern, and responsive UI design for the **GOHOP** application, focusin
 * **Framework:** [Flutter](https://flutter.dev/)
 * **Language:** [Dart](https://dart.dev/)
 
-## 🚀 Getting Started
 
-To get a local copy up and running, follow these simple steps:
-
-### Prerequisites
-Make sure you have Flutter installed on your machine. You can check by running:
-```bash
-flutter doctor
