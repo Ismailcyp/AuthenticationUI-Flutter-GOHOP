@@ -11,19 +11,7 @@ A clean, modern, and responsive UI design for the **GOHOP** application, focusin
 ## 📱 App Preview
 
 ### Screenshots
-<p align="center">
-  <img src="<img width="1080" height="2400" alt="1" src="[https://github.com/user-attachments/assets/505e39ac-7cb8-4530-95c2-5ca53b4ff520](https://github.com/Ismailcyp/AuthenticationUI-Flutter-GOHOP/blob/main/1.png)" />
-" alt="Login Screen" width="250"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="URL_TO_YOUR_SIGNUP_IMAGE_HERE" alt="Sign Up Screen" width="250"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="URL_TO_YOUR_SIGNUP_IMAGE_HERE" alt="Sign Up Screen" width="250"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="URL_TO_YOUR_SIGNUP_IMAGE_HERE" alt="Sign Up Screen" width="250"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="URL_TO_YOUR_SIGNUP_IMAGE_HERE" alt="Sign Up Screen" width="250"/>
-  
-</p>
+
 
 ### Video Demo
 <p align="center">
